@@ -60,3 +60,29 @@ Publications
 
 </div>
 
+
+
+
+
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="../EditChebyshev/rep.jpeg" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
+
+  <!-- 右侧内容 -->
+  <div>
+    <h3 style="margin: 0;">
+        Interactive Editing of Discrete Chebyshev Nets.
+    </h3>
+    <p><strong>Authors:</strong> Ruizeng Li, <a href="https://mangoleaves.github.io/">Jia-Peng Guo</a>, Qi Wang, <a href="https://kfckfckf.github.io/">Shuangming Chai</a>, <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>, <a href="http://staff.ustc.edu.cn/~fuxm/">Xiao-Ming Fu</a>.</p>
+    <p><em>Computer Graphics Forum (Proc. Eurographics), 41(2), 2022.</em></p>
+    <p>
+      <a href="../EditChebyshev/2022_EditChebyshev.pdf">Paper</a> |
+      <a href="../EditChebyshev/EditChebyshev-supp.pdf">Supplementary</a> |
+      <a href="../EditChebyshev/compress_edit-cheby-result.mp4">Video</a> |
+      <a href="../EditChebyshev/edit-cheby-presentation-video.mp4">Presentation</a>
+    </p>
+  </div>
+
+</div>
