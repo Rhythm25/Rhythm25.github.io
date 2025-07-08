@@ -1,10 +1,6 @@
 ---
 permalink: /
 title: "Ruizeng Li (李睿增)"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
