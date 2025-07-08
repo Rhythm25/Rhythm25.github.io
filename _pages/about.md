@@ -11,3 +11,26 @@ I am currently a Ph.D. student at the University of Science and Technology of Ch
 
 Publications
 =====
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <img src="../BPSDF/gt.png" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
+
+  <!-- 右侧内容 -->
+
+
+
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://projectpage.com" target="_blank" style="text-decoration: none; color: black;">
+        Bidirectional Plateau-Border Scattering Distribution Function for Realistic and Efficient Foam Rendering.
+      </a>
+    </h3>
+    <p><strong>Authors:</strong> Ruizeng Li, Xinyang Liu, Runze Wang, <a href="https://jerry-shen0527.github.io/">Pengfei Shen</a>, <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>, <a href="https://wangningbei.github.io/">Beibei Wang</a>.</p>
+    <p><em>Proc. The 36th Eurographics Symposium on Rendering (EGSR), 2025. </em></p>
+    <p>
+      <a href="../BPSDF/paper.pdf">Paper</a> |
+      <a href="../BPSDF/Supplementary.pdf">Supplementary</a>
+    </p>
+  </div>
+</div>
