@@ -12,7 +12,7 @@ I am currently a Ph.D. student at the University of Science and Technology of Ch
 Publications
 =====
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="../BPSDF/gt.png" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
 
@@ -38,7 +38,7 @@ Publications
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="../DiffScratch/teaser.png" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
 
@@ -66,7 +66,7 @@ Publications
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <img src="../EditChebyshev/rep.jpeg" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
 
