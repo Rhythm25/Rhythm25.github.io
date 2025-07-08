@@ -9,7 +9,7 @@ I am currently a Ph.D. student at the University of Science and Technology of Ch
 
 <style>
   .paper-meta {
-    margin: 4px 0;
+    margin: 2px 0;
   }
 </style>
 
