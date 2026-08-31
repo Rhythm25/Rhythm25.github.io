@@ -20,6 +20,29 @@ Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左侧图片 -->
+  <img src="../PSM/rep.jpg" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
+
+  <!-- 右侧内容 -->
+  <div>
+    <h3 style="margin: 0;">
+      <a href="https://rhythm25.github.io/PSMpage" target="_blank" style="text-decoration: none; color: black;">
+        Differentiable Rendering for Specular Materials via Projected Specular Manifolds.
+      </a>
+    <p class="paper-meta"><strong>Authors:</strong> <b>Ruizeng Li</b>, Peiqi Wang, <a href="https://wangningbei.github.io/">Beibei Wang</a>, <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>.</p>
+    <p class="paper-meta"><em>Coming soon. </em></p>
+    <!-- <p class="paper-meta">
+      <a href="../BPSDF/paper.pdf">Paper</a> |
+      <a href="../BPSDF/Supplementary.pdf">Supplementary</a>
+    </p> -->
+  </div>
+
+
+</div>
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
   <img src="../BPSDF/gt.png" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
 
   <!-- 右侧内容 -->
