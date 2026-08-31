@@ -20,7 +20,7 @@ Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左侧图片 -->
-  <img src="../PSM/rep.jpg" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
+  <img src="../PSM/grad_ourrepre_map111.png" alt="Teaser" style="width: 180px; margin-right: 20px; border-radius: 8px;">
 
   <!-- 右侧内容 -->
   <div>
