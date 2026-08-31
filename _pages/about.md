@@ -29,7 +29,7 @@ Publications
         Differentiable Rendering for Specular Materials via Projected Specular Manifolds.
       </a>
     </h3>
-    <p class="paper-meta"><strong>Authors:</strong> <b>Ruizeng Li</b>, Peiqi Wang, <a href="https://wangningbei.github.io/">Beibei Wang</a>, <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>.</p>
+    <!-- <p class="paper-meta"><strong>Authors:</strong> <b>Ruizeng Li</b>, Peiqi Wang, <a href="https://wangningbei.github.io/">Beibei Wang</a>, <a href="http://staff.ustc.edu.cn/~lgliu/">Ligang Liu</a>.</p> -->
     <p class="paper-meta"><em>Coming soon. </em></p>
     <!-- <p class="paper-meta">
       <a href="../BPSDF/paper.pdf">Paper</a> |
